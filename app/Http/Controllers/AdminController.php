@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use App\Model\AdminModel;
 use Illuminate\Http\Request;
 use App\Model\Admin\ShopOrderModel;
-use App\model\Admin\ShopProductModel;
+use App\Model\Admin\ShopProductModel;
 
 class AdminController extends Controller
 {
